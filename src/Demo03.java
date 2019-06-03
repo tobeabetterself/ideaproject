@@ -15,6 +15,7 @@ public class Demo03 {
                     System.out.println("执行run方法");
                     System.out.println("修改了一行代码");
                     System.out.println("我又修改了一行代码");
+                    System.out.println("修改了一个bug");
                 }
             }
         }).start();
