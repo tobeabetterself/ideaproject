@@ -13,6 +13,7 @@ public class Demo03 {
             public void run() {
                 for (int i = 0; i <1000 ; i++) {
                     System.out.println("执行run方法");
+                    System.out.println("修改了一行代码");
                 }
             }
         }).start();
