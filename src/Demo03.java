@@ -14,6 +14,7 @@ public class Demo03 {
                 for (int i = 0; i <1000 ; i++) {
                     System.out.println("执行run方法");
                     System.out.println("修改了一行代码");
+                    System.out.println("我又修改了一行代码");
                 }
             }
         }).start();
